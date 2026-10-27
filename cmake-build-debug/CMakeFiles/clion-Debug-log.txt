@@ -1,0 +1,6 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Qt/Tools/mingw1310_64/bin/mingw32-make.exe -DCMAKE_PREFIX_PATH=C:/Qt/6.9.0/mingw_64 -G "MinGW Makefiles" -S C:\Users\romvi\Documents\CLionProjects\PPD -B C:\Users\romvi\Documents\CLionProjects\PPD\cmake-build-debug
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+-- Adding Windows resource file: app.rc
+-- Configuring done (0.3s)
+-- Generating done (0.2s)
+-- Build files have been written to: C:/Users/romvi/Documents/CLionProjects/PPD/cmake-build-debug

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/pics/oilPlatform.svg</file>
+        <file>resources/pics/oilPlatform.png</file>
+        <file>resources/localization/PPD_ru_RU.qm</file>
+        <file>resources/localization/PPD_en_US.qm</file>
+        <file>resources/localization/PPD_fr_FR.qm</file>
+        <file>resources/localization/PPD_de_DE.qm</file>
+        <file>resources/localization/PPD_es_ES.qm</file>
+        <file>resources/localization/PPD_it_IT.qm</file>
+        <file>resources/localization/PPD_ja_JP.qm</file>
+        <file>resources/localization/PPD_zh_CN.qm</file>
+    </qresource>
+</RCC>

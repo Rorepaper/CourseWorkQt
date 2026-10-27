@@ -1,0 +1,5 @@
+C:/Users/romvi/Documents/CLionProjects/PPD/cmake-build-debug/CMakeFiles/PPD.dir
+C:/Users/romvi/Documents/CLionProjects/PPD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/romvi/Documents/CLionProjects/PPD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/romvi/Documents/CLionProjects/PPD/cmake-build-debug/CMakeFiles/PPD_autogen_timestamp_deps.dir
+C:/Users/romvi/Documents/CLionProjects/PPD/cmake-build-debug/CMakeFiles/PPD_autogen.dir
